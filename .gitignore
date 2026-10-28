@@ -1,0 +1,6 @@
+build/
+dist/
+.DS_Store
+promo/out/
+promo/icons.swift
+.claude-flow/
