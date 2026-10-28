@@ -1,5 +1,5 @@
 // Usage: node render.js stills 0.5 2.3 ...   |   node render.js video
-const { chromium } = require('playwright') // npm i playwright;
+const { chromium } = require('playwright'); // npm i playwright
 const { spawn } = require('child_process');
 const path = require('path');
 (async () => {

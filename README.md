@@ -4,7 +4,9 @@
 
 ![LidAwake demo](assets/demo.gif)
 
-A tiny menu bar switch that keeps your Mac running when you close the lid. Downloads keep downloading, renders keep rendering, your AI agent keeps working. The screen goes dark and everything else carries on.
+Stop walking around with your laptop open so your agent keeps running.
+
+LidAwake is a tiny menu bar switch that keeps your Mac running when you close the lid. Downloads keep downloading, renders keep rendering, your AI agent keeps working. The screen goes dark and everything else carries on.
 
 Click the icon, flip **Keep Running with Lid Closed**, done.
 
@@ -55,7 +57,9 @@ Requires macOS 13 or later. Works on Apple Silicon and Intel.
 
 ## 中文
 
-一个放在菜单栏的小开关，让 Mac 合上盖子之后继续运行。下载接着下、渲染接着渲、AI 接着干活，只是屏幕黑了。
+从此告别抱着开盖的电脑走路，就为了让 AI 接着干活。
+
+这是一个放在菜单栏的小开关，让 Mac 合上盖子之后继续运行。下载接着下、渲染接着渲、AI 接着干活，只是屏幕黑了。
 
 点图标，勾上 **合盖继续运行**，就这么简单。
 
